@@ -1,2 +1,2 @@
 # colorconverter
-web-app that converts between hexadecimal and RGB color codes
+Web-app that converts between hexadecimal and RGB color codes. Based on instructions offered at freecodecamp.org
